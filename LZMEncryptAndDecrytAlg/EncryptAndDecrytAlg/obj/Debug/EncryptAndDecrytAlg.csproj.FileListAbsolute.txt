@@ -1,0 +1,9 @@
+c:\users\19068\documents\visual studio 2015\Projects\EncryptAndDecrytAlg\EncryptAndDecrytAlg\bin\Debug\EncryptAndDecrytAlg.exe.config
+C:\Users\19068\documents\visual studio 2015\Projects\EncryptAndDecrytAlg\EncryptAndDecrytAlg\bin\Debug\EncryptAndDecrytAlg.exe
+C:\Users\19068\documents\visual studio 2015\Projects\EncryptAndDecrytAlg\EncryptAndDecrytAlg\bin\Debug\EncryptAndDecrytAlg.pdb
+C:\Users\19068\documents\visual studio 2015\Projects\EncryptAndDecrytAlg\EncryptAndDecrytAlg\obj\Debug\EncryptAndDecrytAlg.csprojResolveAssemblyReference.cache
+C:\Users\19068\documents\visual studio 2015\Projects\EncryptAndDecrytAlg\EncryptAndDecrytAlg\obj\Debug\EncryptAndDecrytAlg.exe
+C:\Users\19068\documents\visual studio 2015\Projects\EncryptAndDecrytAlg\EncryptAndDecrytAlg\obj\Debug\EncryptAndDecrytAlg.pdb
+C:\Users\19068\Desktop\大二下课程\信息安全\SourceCode\LZMEncryptAndDecrytAlg\EncryptAndDecrytAlg\bin\Debug\EncryptAndDecrytAlg.exe.config
+C:\Users\19068\Desktop\大二下课程\信息安全\SourceCode\LZMEncryptAndDecrytAlg\EncryptAndDecrytAlg\obj\Debug\EncryptAndDecrytAlg.exe
+C:\Users\19068\Desktop\大二下课程\信息安全\SourceCode\LZMEncryptAndDecrytAlg\EncryptAndDecrytAlg\obj\Debug\EncryptAndDecrytAlg.pdb
